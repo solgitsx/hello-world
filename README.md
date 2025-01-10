@@ -21,7 +21,7 @@
 
 [Github](https://github.com)
 
-![Github](https://github.com/images/logo.jpg)
+![Solgitsx](https://github.com/solgitsx/hello-world/solgitsx.jpg)
 
 
 ### 신영복의 <담론>
